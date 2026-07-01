@@ -1,4 +1,4 @@
-# Cars_Sales_Analysis_Dashboard
+Cars_Sales_Analysis_Dashboard
 showcasing of data analysis cars sales project 
 
 # 🚗 Cars Sales Analysis Dashboard | Power BI & SQL
@@ -99,12 +99,6 @@ Created interactive visualizations including:
 - Data Visualization
 - Analytical Thinking
 - KPI Reporting
-
----
-
-## 📷 Dashboard Preview
-
-*(Add a screenshot of your dashboard here.)*
 
 ---
 
