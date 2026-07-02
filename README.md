@@ -70,7 +70,7 @@ Created interactive visualizations including:
 
 ## 📈 Key Insights
 
-- Sales reached their highest level in 2023.
+- Sales reached their highest level in 2022.
 - Sales declined in 2024, highlighting an opportunity for further business investigation.
 - Diesel and Electric vehicles have strong customer demand.
 - Manual and Automatic transmissions have nearly equal sales.
